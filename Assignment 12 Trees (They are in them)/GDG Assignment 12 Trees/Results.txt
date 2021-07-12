@@ -1,0 +1,31 @@
+In Order Tree List:
+2 8 11 13 17 19 22 23 27 29 30 32 33 36 40 41 45 47 49 51 56 59 64 66 75 
+
+Pre Order Tree List:
+75 47 19 13 11 2 8 17 36 23 22 32 30 27 29 33 41 40 45 59 51 49 56 66 64 
+
+Post Order Tree List:
+8 2 11 17 13 22 29 27 30 33 32 23 40 45 41 36 19 49 56 51 64 66 59 47 75 
+
+Number of Nodes Values in Tree: 
+48
+
+Sum and Average of All Values
+Sum: 2951
+Average: 61.479
+
+Average of Leaves
+Average: 63.857
+
+Deepest Node Value:
+29
+
+Nodes that have One Child: 
+11 2 30 27 73 67 130 
+
+All numbers to the Left of the Root
+2 8 11 13 17 19 22 23 27 29 30 32 33 36 40 41 45 47 49 51 56 59 64 66 67 68 69 72 73 
+
+All numbers to the Right of the Root
+76 79 81 82 84 85 87 90 93 94 96 97 98 102 108 110 115 130 
+

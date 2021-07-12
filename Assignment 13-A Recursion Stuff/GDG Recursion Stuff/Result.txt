@@ -1,0 +1,49 @@
+Part 1:
+Enter a number and we will count the # of digits in it: 
+123456
+# of digits in the number: 6
+90909
+# of digits in the number: 5
+876543219
+# of digits in the number: 9
+
+
+Part 2:
+Using data entered, we will return the first digit: 
+First of digit in the number: 1
+First of digit in the number: 9
+First of digit in the number: 8
+
+
+Part 3:
+Using data entered, we will return the sum of the digits: 
+Sum of digits in the number: 21
+Sum of digits in the number: 27
+Sum of digits in the number: 45
+
+
+Part 4-A:
+Enter two numbers and we will multiply that number recursively: 
+200
+150
+200x150 = 30000
+
+
+Part 4-B:
+Using data entered, we will add all integers in that number: 
+100
+Sum of all integers in number: 5050
+200
+Sum of all integers in number: 20100
+
+
+Part 5:
+Using data entered, Printing numbers backwards: 
+654321
+
+90909
+
+912345678
+
+
+

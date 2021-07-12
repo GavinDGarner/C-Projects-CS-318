@@ -1,0 +1,9 @@
+Enter the radius of the first circle: 18
+The Area of the circle is: 1017.875
+The Diameter of the circle is: 36.000
+The Circumference of the circle is: 113.097
+
+Enter the radius of the second circle: 6280.000
+The Area of the circle is: 123899288.000
+The Diameter of the circle is: 12560.000
+The Circumference of the circle is: 39458.371

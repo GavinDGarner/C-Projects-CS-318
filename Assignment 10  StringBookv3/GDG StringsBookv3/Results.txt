@@ -1,0 +1,39 @@
+Problem #1: String Length
+Nothing you wear is more important than a smile and its right under your nose
+Number of characters in this line: 77
+
+Problem #2: Prt String Backwards
+eson ruoy rednu thgir sti dna elims a naht tnatropmi erom si raew uoy gnihtoN
+
+Problem #3: Password Verifier
+ABC12R3
+Password must contain at least one uppercase and one lowercase letter.
+TwoFor1
+Password Accepted
+MasterControlPgm
+Password must contain at least one digit
+Sid22
+Password is too short: At least 7 characters required.
+howdyYALL
+Password must contain at least one digit
+Seventy8
+Password Accepted
+GorillaalliroG
+Password must contain at least one digit
+ThisIs4You
+Password Accepted
+2MasterPass
+Password Accepted
+
+
+Problem #4: Word Separator
+Sid likes to eat nuts but the brother, sidney likes to eat fruit. one time sid put a pecan in sidney’s banana and boy hidey did sid get a chuckle out of sidney’s misfortune
+
+Problem #5: replaceSubstring
+that dog jumped over that fence
+
+Mikey likes to eat nuts but the brother, Mikeyney likes to eat fruit.  One time Mikey put a pecan in Mikeyney’s banana and boy hidey did Mikey get a chuckle out of Mikeyney’s misfortune
+
+Problem #6:Word Replacement Pgm...
+No input file was found on BlackBoard. If one is uploaded,
+Then I will write the code. Have a Nice Day :)

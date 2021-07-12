@@ -1,0 +1,7 @@
+Current Time: 12:15 plus 06hr. 55 min. = Future Time 19:10
+Current Time: 00:59 plus 10hr. 01 min. = Future Time 11:00
+Future Time: 19:10 minus 10hr. 45 min. = Start Time 08:25
+Current Time: 20:30 plus 07hr. 50 min. = Future Time 04:20
+Future Time: 20:10 minus 20hr. 40 min. = Start Time 23:30
+Current Time: 09:00 plus 15hr. 45 min. = Future Time 00:45
+Future Time: 03:30 minus 08hr. 40 min. = Start Time 18:50

@@ -1,0 +1,16 @@
+                             Average Paint Per Seat in cups
+6.275      7.545      7.485      7.603      7.639      7.629      6.056      
+7.626      9.027      8.941      9.133      9.142      9.177      7.641      
+7.478      8.973      8.987      9.097      9.179      9.167      7.567      
+7.449      9.001      8.925      9.047      9.189      9.079      7.545      
+7.502      9.048      8.969      9.113      9.123      9.129      7.532      
+7.622      9.135      9.193      9.193      9.137      9.013      7.522      
+7.636      9.156      9.179      9.187      9.083      9.129      7.549      
+6.127      7.661      7.649      7.683      7.703      7.646      6.085      
+
+
+I would choose the seat in Row 1 Column 7
+
+The instructor should take a seat at Row 6 Column 3
+
+We are gonna need 37 cups of paint for a successful disturbance.
